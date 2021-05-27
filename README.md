@@ -6,4 +6,5 @@ Autor: Nowtzki, Andrei Luiz
 Orientador: Seger, Guilherme Dubal dos Santos
 Nível acadêmico: Graduação
 Tipo: Trabalho de conclusão de graduação
-URI: http://hdl.handle.net/10183/206782
+
+[![DOI](https://zenodo.org/badge/371386266.svg)](https://zenodo.org/badge/latestdoi/371386266)
